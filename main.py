@@ -5,7 +5,7 @@
 # Convert the entire sentence to uppercase and print the result.
 # Find and print a substring from the inputted sentence.
 # Replace a word in the sentence and print the updated sentence.
-
+print(wassaaaa!)
 
 # Input Practice:
 
